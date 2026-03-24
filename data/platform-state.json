@@ -1,0 +1,218 @@
+{
+  "charities": [
+    {
+      "id": 1,
+      "name": "Birdie Futures",
+      "focus": "Junior golf scholarships",
+      "description": "Funds coaching, travel, and equipment for young golfers from underrepresented communities.",
+      "image": "Scholarship nights and junior coaching access",
+      "featured": true,
+      "events": [
+        "Summer academy drive",
+        "Junior invitational day"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Greens For Good",
+      "focus": "Community wellness",
+      "description": "Builds inclusive community golf days that fund local mental health and wellness programs.",
+      "image": "Wellness-led charity rounds and donor salons",
+      "featured": true,
+      "events": [
+        "Nine holes for hope",
+        "Corporate charity scramble"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fairway Relief Fund",
+      "focus": "Emergency family support",
+      "description": "Provides direct support to families facing medical and financial hardship.",
+      "image": "Private donor evenings and relief campaigns",
+      "featured": false,
+      "events": [
+        "Relief weekend cup",
+        "Winter donor showcase"
+      ]
+    }
+  ],
+  "subscribers": [
+    {
+      "id": 101,
+      "name": "Alex Palmer",
+      "email": "alex@projectintern.test",
+      "country": "United Kingdom",
+      "plan": "Yearly",
+      "charityId": 2,
+      "charityPercent": 18,
+      "renewalDate": "2026-12-01",
+      "subscriptionStatus": "Active",
+      "enteredDraws": 7,
+      "upcomingDraws": 1,
+      "winnings": 420,
+      "paymentStatus": "Pending",
+      "proofStatus": "Submitted",
+      "proofNote": "Screenshot uploaded from club scoring portal.",
+      "scores": [
+        {
+          "id": 1774373710575,
+          "points": 37,
+          "date": "2026-03-24"
+        },
+        {
+          "id": 1,
+          "points": 31,
+          "date": "2026-03-10"
+        },
+        {
+          "id": 2,
+          "points": 27,
+          "date": "2026-03-03"
+        },
+        {
+          "id": 3,
+          "points": 35,
+          "date": "2026-02-22"
+        },
+        {
+          "id": 4,
+          "points": 30,
+          "date": "2026-02-10"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Maya Ford",
+      "email": "maya@projectintern.test",
+      "country": "United States",
+      "plan": "Monthly",
+      "charityId": 1,
+      "charityPercent": 15,
+      "renewalDate": "2026-04-08",
+      "subscriptionStatus": "Active",
+      "enteredDraws": 4,
+      "upcomingDraws": 1,
+      "winnings": 0,
+      "paymentStatus": "None",
+      "proofStatus": "Not Submitted",
+      "proofNote": "",
+      "scores": [
+        {
+          "id": 6,
+          "points": 24,
+          "date": "2026-03-14"
+        },
+        {
+          "id": 7,
+          "points": 29,
+          "date": "2026-03-01"
+        },
+        {
+          "id": 8,
+          "points": 18,
+          "date": "2026-02-19"
+        },
+        {
+          "id": 9,
+          "points": 21,
+          "date": "2026-02-01"
+        },
+        {
+          "id": 10,
+          "points": 26,
+          "date": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Jordan Mills",
+      "email": "jordan@projectintern.test",
+      "country": "Canada",
+      "plan": "Yearly",
+      "charityId": 3,
+      "charityPercent": 12,
+      "renewalDate": "2026-09-14",
+      "subscriptionStatus": "Active",
+      "enteredDraws": 9,
+      "upcomingDraws": 1,
+      "winnings": 1600,
+      "paymentStatus": "Paid",
+      "proofStatus": "Approved",
+      "proofNote": "Verified against official score archive.",
+      "scores": [
+        {
+          "id": 11,
+          "points": 35,
+          "date": "2026-03-11"
+        },
+        {
+          "id": 12,
+          "points": 30,
+          "date": "2026-02-26"
+        },
+        {
+          "id": 13,
+          "points": 22,
+          "date": "2026-02-16"
+        },
+        {
+          "id": 14,
+          "points": 31,
+          "date": "2026-02-02"
+        },
+        {
+          "id": 15,
+          "points": 28,
+          "date": "2026-01-18"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Sophie Lin",
+      "email": "sophie@projectintern.test",
+      "country": "Australia",
+      "plan": "Monthly",
+      "charityId": 2,
+      "charityPercent": 22,
+      "renewalDate": "2026-04-02",
+      "subscriptionStatus": "Lapsed",
+      "enteredDraws": 2,
+      "upcomingDraws": 0,
+      "winnings": 85,
+      "paymentStatus": "Pending",
+      "proofStatus": "Submitted",
+      "proofNote": "Awaiting manual review.",
+      "scores": [
+        {
+          "id": 16,
+          "points": 14,
+          "date": "2026-03-09"
+        },
+        {
+          "id": 17,
+          "points": 17,
+          "date": "2026-02-28"
+        },
+        {
+          "id": 18,
+          "points": 20,
+          "date": "2026-02-15"
+        },
+        {
+          "id": 19,
+          "points": 11,
+          "date": "2026-01-30"
+        },
+        {
+          "id": 20,
+          "points": 16,
+          "date": "2026-01-12"
+        }
+      ]
+    }
+  ]
+}
